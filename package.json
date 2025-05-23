@@ -1,0 +1,27 @@
+{
+  "name": "mathadard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/bn.js": "^5.1.6",
+    "@types/node": "^22.15.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.1",
+    "@project-serum/borsh": "^0.2.5",
+    "@solana/web3.js": "^1.98.2",
+    "bn": "^1.0.5",
+    "bn.js": "^5.2.2",
+    "borsh": "^2.0.0"
+  }
+}
