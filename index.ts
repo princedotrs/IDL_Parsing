@@ -44,7 +44,7 @@ const commitment: Commitment = "confirmed";
 
 
 // const getBuyToken = async (mintadd: PublicKey, solIn:anchor.BN) =>{
-//     const connection = new Connection("https://few-twilight-wish.solana-devnet.quiknode.pro/5337a237aaeecd58b8c43a375c78a541aafccf04");
+//     const connection = new Connection("https://api.devnet.solana.com");
 //     const keypair = Keypair.generate();
 //     const wallet = new anchor.Wallet(keypair);
 
